@@ -11,8 +11,8 @@ permissions:
   pull-requests: write
 
 env:
-  DAGSHUB_OWNER: ${{ vars.DAGSHUB_OWNER }}
-  DAGSHUB_TOKEN: ${{ secrets.DAGSHUB_TOKEN }}
+  DAGSHUB_OWNER: Varuni-Punchihewa
+  DAGSHUB_TOKEN: 975764ae94ba29c0cc016f118cb25078f9e703cf
 
 jobs:
   check:

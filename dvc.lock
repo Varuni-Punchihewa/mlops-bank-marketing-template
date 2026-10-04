@@ -22,8 +22,8 @@ stages:
     deps:
     - path: data/production/labelled.csv
       hash: md5
-      md5: 55f679f06c3ba5e8d052adb456fe7a3c
-      size: 193
+      md5: 640fd20e096fa710c6a7ad3daf524557
+      size: 192
     - path: data/raw/bank-additional-full.csv
       hash: md5
       md5: f6cb2c1256ffe2836b36df321f46e92c
